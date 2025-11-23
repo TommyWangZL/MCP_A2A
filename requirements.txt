@@ -1,0 +1,4 @@
+# Python version requirement
+python>=3.9
+
+# No external packages needed
