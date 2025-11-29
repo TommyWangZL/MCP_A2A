@@ -1,4 +1,9 @@
-# Python version requirement
-python>=3.9
-
-# No external packages needed
+google-genai
+google-adk==1.9.0
+a2a-sdk==0.3.0
+python-dotenv
+aiohttp
+uvicorn
+requests
+httpx
+mcp[cli]
